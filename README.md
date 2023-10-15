@@ -1,16 +1,19 @@
-### Hi there 👋
+# Seja bem-vindo(a)! :grin:
 
-<!--
-**DYuriPS/DYuriPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, meu nome é Douglas Yuri, atualmente estou estudando desenvolvimento web com foco em backend, onde pretendo me especializar.
 
-Here are some ideas to get you started:
+- :computer: Desenvolvedor Backend
+- :mechanic: Formação em técncio em mecânica
+- :telescope: Entusiasta dos astros
+  
+### Redes Sociais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/douglas-yuri-pereira-dos-santos-295b51291/)
+
+### Linguagens
+
+![Javascript](https://img.shields.io/badge/Javascript-282C34?style=flat&logo=javascript)
+
+### Bibliotecas e afins
+
+![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=node.js)
